@@ -54,14 +54,14 @@ Gosto de construir aplicações modernas, escaláveis e bem estruturadas.
 
 ---
 
-## 📈 Estatísticas
+<!-- ## 📈 Estatísticas
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anderson-tec12&show_icons=true&theme=tokyonight" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anderson-tec12&layout=compact&theme=tokyonight" />
 </p>
 
----
+--- -->
 
 ## 🐍 Contribuições (Snake Animation)
 
